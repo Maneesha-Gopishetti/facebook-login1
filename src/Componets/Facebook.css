@@ -1,0 +1,21 @@
+.cont
+{
+    width: 500px;
+    margin-top:30px;
+    margin-left: 33%;
+    box-shadow:0 0 15px 1px rgba(25, 112, 234, 0.559) ;
+}
+
+.conttt
+{
+    margin-top:80px;
+    font-size:100px;
+
+    /* box-shadow: 1px 1px gray; */
+}
+
+.fonsiz
+{
+    font-size:70px;
+    font-family:roboto;
+}
